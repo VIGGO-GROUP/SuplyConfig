@@ -566,7 +566,7 @@
             "pos": 300,
             "showOriginalColor": false,
             "defaultTab": false,
-            "icon": "https://trello.com/1/cards/664e4ccda9e5b66462c3b694/attachments/664e668838c466ab6f3332ab/download/search_icon.png",
+            "icon": "assets/icons/tabs/search_icon.png",
             "key": "xEWSBgIVXh"
         },
         {
@@ -575,7 +575,7 @@
             "pos": 400,
             "showOriginalColor": false,
             "defaultTab": false,
-            "icon": "https://trello.com/1/cards/664e4ccda9e5b66462c3b694/attachments/664e66bcebc6795400a15ee4/download/cart_icon.png",
+            "icon": "assets/icons/tabs/cart_icon.png",
             "key": "akvinQQsQf"
         },
         {
@@ -587,7 +587,7 @@
             "showOriginalColor": false,
             "defaultTab": false,
             "showBackground": false,
-            "icon": "https://trello.com/1/cards/664e4ccda9e5b66462c3b694/attachments/664e66ce36b26869c34d90bc/download/icon-user.png",
+            "icon": "assets/icons/tabs/profile_icon.png",
             "drawerIcon": {
                 "fontFamily": "MaterialIcons",
                 "icon": "menu"
